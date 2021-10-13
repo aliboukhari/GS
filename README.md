@@ -1,0 +1,2 @@
+# GS
+Stock management Application
